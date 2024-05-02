@@ -5,8 +5,8 @@ A new Flutter project.
 ## Getting Started
 
 Screenshot 1
-<img src="assets/icons/img.png" width="300">
-<img src="assets/icons/img.png" width="300">
+<img src="assets/icons/img1.png" width="300">
+<img src="assets/icons/img2.png" width="300">
 
 This project is a starting point for a Flutter application.
 
